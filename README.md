@@ -1,2 +1,2 @@
-# discussions
-🗣 Public discussions
+# coatl.dev Discussions
+Public discussions
